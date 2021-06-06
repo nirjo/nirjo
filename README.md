@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nirjo
-- 👀 I’m interested in frontend coding.
+- 👀 I’m interested mostly on frontend projects since i am an frontend developer.
 - 🌱 I’m currently learning and willing to work in fullstack projects.
 - 💞️ I’m looking to collaborate on remote / contract freelance work environment.
 - 📫 How to reach me - email= nirmalraj.joseph86@gmail.com
